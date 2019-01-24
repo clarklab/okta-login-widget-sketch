@@ -11,3 +11,7 @@ I was a designer working on a project using Okta login. This Sketch file helped 
 **How do I use it?**
 
 If you have Sketch, download this file, make your changes, review with your team, code your changes, deploy the login widget, party. Party hard.
+
+**What font is that?!**
+
+The default font is [Montserrat](https://fonts.google.com/specimen/Montserrat), which is available free from Google Fonts.
